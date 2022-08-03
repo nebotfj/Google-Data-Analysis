@@ -50,7 +50,7 @@ Basic structure of a SQL Query (Start a big data table and go small to specefic 
 ## Guía de SQL: Primeros pasos
 **El lenguaje de consulta estructurado (SQL)**. SQL es una de las herramientas de análisis de datos más útiles, especialmente cuando se trabaja con grandes conjuntos de datos en tablas. Puede ayudarte a investigar grandes bases de datos y rastrear texto (conocido como cadenas) y números, y filtrar el tipo exacto de datos que necesitas, mucho más rápido que una hoja de cálculo.
 
-¿Qué es una consulta? (Query: A request for data or information from a database).
+### ¿Qué es una consulta? (Query: A request for data or information from a database).
 Una consulta es una solicitud de datos o información que proviene de una base de datos.
 
 Cada lenguaje de programación, incluido SQL, sigue una sintaxis única. La sintaxis es la estructura predeterminada de un lenguaje, que incluye todas las palabras, los símbolos y la puntuación requeridos, así como su correcta colocación.
@@ -74,7 +74,7 @@ Escribe el nombre de la tabla después del FROM, las columnas de la tabla que de
 
 Seguir este método facilita el proceso de escribir consultas SQL. También puede ayudarte a cometer menos errores de sintaxis.
 
-Ejemplo de una consulta
+### Ejemplo de una consulta
 Así es como aparecería una simple consulta en BigQuery, un almacén de datos de Google Cloud Platform.
 
 ````
@@ -86,91 +86,104 @@ WHERE
  first_name = 'Tony'
  ````
 La consulta anterior usa tres comandos para localizar clientes que se llaman Tony:
-
-ELEGIR (SELECT) la columna denominada nombre (first_name)
-
-DESDE (FROM) una tabla denominada nombre_del_cliente (customer_data) (en un conjunto de datos denominado nombre_del_cliente [customer_data]) (el nombre del conjunto de datos siempre va seguido de un punto y, a continuación, del nombre de la tabla).
-
-Pero solo se devuelven los datos DONDE (WHERE) el primer_nombre (first_name) es Tony
+1. ELEGIR (SELECT) la columna denominada nombre (first_name)
+2. DESDE (FROM) una tabla denominada nombre_del_cliente (customer_data) (en un conjunto de datos denominado nombre_del_cliente [customer_data]) (el nombre del conjunto de datos siempre va seguido de un punto y, a continuación, del nombre de la tabla).
+3. Pero solo se devuelven los datos DONDE (WHERE) el primer_nombre (first_name) es Tony
 
 Los resultados de la consulta pueden ser similares a los siguientes:
 
-first_name
-
-
-
-Tony
-
-
-
-Tony
-
-
-
-Tony
-
-
+| first_name | |
+--- | ---
+| Tony |
+| Tony |
+| Tony |
 
 En conclusión, esta consulta tenía la sintaxis correcta, pero no fue muy útil después de la devolución de los datos.
 
-Varias columnas en una consulta
-En la vida real, tendrás que trabajar con más datos, además de los clientes llamados Tony. El mismo comando SELECT elige varias columnas que se pueden sangrar y agrupar.
+### Varias columnas en una consulta
+En la vida real, tendrás que trabajar con más datos, además de los clientes llamados Tony. 
 
+El  comando SELECT elige varias columnas que se pueden sangrar y agrupar.
 Si solicitas varios campos de datos de una tabla, debes incluir estas columnas en el comando SELECT. Cada columna está separada por una coma, como se muestra a continuación:
-
-SELECT Column A, Column B, Column C FROM Table where the data lives WHERE certain condition is met
+````
+SELECT
+ ColumnA,
+ ColumnB,
+ ColumnC
+FROM
+ Table where the data lives
+WHERE
+ Certain condition is met
+ ````
 Este es un ejemplo de cómo aparecería en BigQuery:
-
-SELECT customer_id, first_name, last_name FROM customer_data.customer_name WHERE first_name = 'Tony'
+````
+SELECT 
+ customer_id, 
+ first_name, 
+ last_name 
+FROM 
+ customer_data.customer_name 
+WHERE 
+ first_name = 'Tony'
+ ````
 La consulta anterior usa tres comandos para localizar clientes que se llaman Tony:
+ 1. **ELEGIR (SELECT)** las columnas denominadas **id_del_cliente (customer_id), nombre (first_name) y apellido (last_name)**
+ 2. **DESDE (FROM)** una tabla denominada **nombre_del_cliente (customer_data)** (en un conjunto de datos denominado **nombre_del_cliente [customer_data])** (el nombre del conjunto de datos siempre va seguido de un punto y, a continuación, del nombre de la tabla)3. Pero solo se devuelven los datos DONDE (WHERE) el nombre (first_name) es Tony”
+ 3. Pero solo se devuelven los datos **DONDE (WHERE)** el nombre (first_name) es **Tony**
 
-ELEGIR (SELECT) las columnas denominadas id_del_cliente (customer_id), nombre (first_name) y apellido (last_name)
+La única diferencia entre esta consulta y la anterior es que se eligen más columnas de datos. La consulta anterior eligió solamente el nombre (first_name), mientras que esta consulta elige el ID_del_cliente (customer_id) y el apellido (last_name), además del nombre (first_name). 
 
-DESDE (FROM) una tabla denominada nombre_del_cliente (customer_data) (en un conjunto de datos denominado nombre_del_cliente [customer_data]) (el nombre del conjunto de datos siempre va seguido de un punto y, a continuación, del nombre de la tabla)3. Pero solo se devuelven los datos DONDE (WHERE) el nombre (first_name) es Tony”
+Si tienes varias condiciones en tu cláusula WHERE, pueden escribirse de la siguiente manera:
+````
+SELECT 
+ ColumnA, 
+ ColumnB, 
+ ColumnC 
+FROM 
+ Table where the data lives 
+WHERE 
+ Condition 1 
+ AND condition 2 
+ AND condition 3
+Ten en cuenta que:
+- *a diferencia del comando SELECT*, que usa una coma para separar campos/variables/parámetros, 
+- *el comando WHERE* usa la instrucción AND para conectar condiciones. 
+- Cuando te conviertas en un escritor de consultas más experimentado, usarás otros conectores u operadores, como OR y NOT. 
 
- Pero solo se devuelven los datos DONDE (WHERE) el nombre (first_name) es Tony
-
-La única diferencia entre esta consulta y la anterior es que se eligen más columnas de datos. La consulta anterior eligió solamente el nombre (first_name), mientras que esta consulta elige el ID_del_cliente (customer_id) y el apellido (last_name), además del nombre (first_name). En general, para usar los recursos de manera más eficiente, debes elegir solo las columnas que necesitas. Por ejemplo, tiene sentido que elijas más columnas si vas a usar los campos adicionales en tu cláusula WHERE. Si tienes varias condiciones en tu cláusula WHERE, pueden escribirse de la siguiente manera:
-
-SELECT ColumnA, ColumnB, ColumnC FROM Table where the data lives WHERE Condition 1 AND condition 2 AND condition 3
-Ten en cuenta que, a diferencia del comando SELECT, que usa una coma para separar campos/variables/parámetros, el comando WHERE usa la instrucción AND para conectar condiciones. Cuando te conviertas en un escritor de consultas más experimentado, usarás otros conectores u operadores, como OR y NOT. 
-
-Este es un ejemplo de BigQuery con varios campos usados en una cláusula WHERE:
-
-SELECT customer_id, first_name, last_name FROM customer_data.customer_name WHERE customer_id>0 AND first_name = 'Tony' 
+Ejemplo de BigQuery con varios campos usados en una cláusula WHERE:
+````
+SELECT 
+ customer_id, 
+ first_name, 
+ last_name 
+FROM 
+ customer_data.customer_name 
+WHERE 
+ customer_id>0 
+ AND first_name = 'Tony' 
+ AND last_name = 'Magnolia'
 La consulta anterior usa tres comandos para localizar clientes con un ID de cliente válido (mayor que 0) cuyo nombre es Tony, y su apellido es Magnolia.
 
-ELEGIR (SELECT) las columnas denominadas id_del_cliente (customer_id), nombre (first_name) y apellido (last_name)
-
-DESDE (FROM) una tabla denominada nombre_del_cliente (customer_data) (en un conjunto de datos denominado nombre_del_cliente [customer_data]) (el nombre del conjunto de datos siempre va seguido de un punto y, a continuación, del nombre de la tabla).
-
-Pero solo devuelve los datos DONDE (WHERE) el ID_del_cliente (customer_id) es mayor que 0, el nombre (first_name) es Tony y el apellido (last_name) es Magnolia.
+ 1. ELEGIR (SELECT) las columnas denominadas 
+  id_del_cliente (customer_id), 
+  nombre (first_name) 
+  y apellido (last_name)
+ 2. DESDE (FROM) una tabla denominada nombre_del_cliente (customer_data) (en un conjunto de datos denominado nombre_del_cliente [customer_data]) (el nombre del conjunto de datos siempre va seguido de un punto y, a continuación, del nombre de la tabla).
+ 3. Pero solo devuelve los datos DONDE (WHERE) el ID_del_cliente (customer_id) es mayor que 0, el nombre (first_name) es Tony y el apellido (last_name) es Magnolia.
 
 Ten en cuenta que una de las condiciones es una condición lógica que comprueba si el ID_del_cliente (customer_id) es mayor que cero.
 
 Si un cliente se llama Tony Magnolia, los resultados de la consulta podrían ser:
 
-1967
-
-Tony
-
-
-
-
+| 1967 | Tony |
+---
 
 Si hay más de un cliente con el mismo nombre, los resultados de la consulta podrían ser:
-
-1967
-
-Tony
-
-Magnolia
-
-7689
-
-Tony
-
-Magnolia
+|1967|Tony|Magnolia|
+---
+|7689|
+|Tony|
+|Magnolia|
 
 
 
