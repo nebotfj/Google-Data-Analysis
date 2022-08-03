@@ -41,7 +41,7 @@ Si deseas saber un poco más sobre las hojas de cálculo de Excel, visita este c
 
 ## Concepts
 * Query: A request for data or information fron a database
-  Basic structure of a SQL Query (Start a big data table and go small to specefic conditions)
+Basic structure of a SQL Query (Start a big data table and go small to specefic conditions)
   ---
   2. SELECT: Choose the column (s) you want
   1. FROM: From the appropiate table 
