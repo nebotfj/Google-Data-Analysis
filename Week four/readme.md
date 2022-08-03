@@ -182,9 +182,7 @@ Si hay más de un cliente con el mismo nombre, los resultados de la consulta pod
 
 | 1967 | Tony | Magnolia |
 --- | --- | --- 
-| 7689 |
-| Tony |
-| Magnolia |
+| 7689 | Tony | Magnolia |
 
 
 Conclusión clave
