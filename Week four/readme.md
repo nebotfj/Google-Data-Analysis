@@ -40,7 +40,7 @@ Si deseas saber un poco más sobre las hojas de cálculo de Excel, visita este c
 * Microsoft SQL Server
 
 ## Concepts
-* Query: A request for data or information fron a database
+* Query: A request for data or information from a database
 Basic structure of a SQL Query (Start a big data table and go small to specefic conditions)
   ---
   2. SELECT: Choose the column (s) you want
