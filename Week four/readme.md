@@ -181,16 +181,13 @@ Si un cliente se llama Tony Magnolia, los resultados de la consulta podrían ser
 Si hay más de un cliente con el mismo nombre, los resultados de la consulta podrían ser:
 
 | 1967 | Tony | Magnolia |
---- | ---
+--- | --- | --- 
 | 7689 |
 | Tony |
 | Magnolia |
 
 
-
-
-
-
-
 Conclusión clave
-Lo más importante es recordar cómo usar SELECT, FROM y WHERE en una consulta. Una vez que hayas practicado cómo escribir tus propias consultas SQL más adelante en el programa, las consultas con varios campos serán más sencillas.
+Lo más importante es **recordar cómo usar SELECT, FROM y WHERE en una consulta.** 
+
+Una vez que hayas practicado cómo escribir tus propias consultas SQL más adelante en el programa, las consultas con varios campos serán más sencillas.
