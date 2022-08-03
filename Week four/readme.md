@@ -27,3 +27,22 @@ Aprende otras maneras de mover, almacenar y analizar tus datos con la página de
 [Capacitación en Microsoft Excel para Windows](https://support.microsoft.com/en-us/office/excel-for-windows-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 Si deseas saber un poco más sobre las hojas de cálculo de Excel, visita este centro de capacitación en línea gratuito. Encontrarás todo lo que necesitas saber en un solo lugar; desde una guía de inicio rápida e introducción hasta tutoriales y plantillas.
+
+### SQL en acción 
+* Store
+* Organize
+* Analize
+
+## Databases wich use SQL
+* Oracle
+* MySQL
+* PostgreSQL
+* Microsoft SQL Server
+
+## Concepts
+* Query: A request for data or information fron a database
+  Basic structure of a SQL Query (Start a big data table and go small to specefic conditions)
+  ---
+  2. SELECT: Choose the column (s) you want
+  1. FROM: From the appropiate table 
+  3. WHERE A certain condition is met
