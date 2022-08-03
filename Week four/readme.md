@@ -176,11 +176,12 @@ Ten en cuenta que una de las condiciones es una condición lógica que comprueba
 Si un cliente se llama Tony Magnolia, los resultados de la consulta podrían ser:
 
 | 1967 | Tony |
----
+--- | ---
 
 Si hay más de un cliente con el mismo nombre, los resultados de la consulta podrían ser:
+
 |1967|Tony|Magnolia|
----
+--- | ---
 |7689|
 |Tony|
 |Magnolia|
