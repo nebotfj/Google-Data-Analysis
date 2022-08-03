@@ -188,4 +188,9 @@ Si hay más de un cliente con el mismo nombre, los resultados de la consulta pod
 Conclusión clave
 Lo más importante es **recordar cómo usar SELECT, FROM y WHERE en una consulta.** 
 
-Una vez que hayas practicado cómo escribir tus propias consultas SQL más adelante en el programa, las consultas con varios campos serán más sencillas.
+## Las posibilidades de SQL son infinitas
+### Uso de mayúsculas, sangría y punto y coma
+- Puedes escribir tus consultas SQL solo en minúsculas, y no tienes que preocuparte por los espacios adicionales entre palabras
+- el uso de mayúsculas y sangría puede ayudarte a leer la información más fácilmente
+![xv18VOamRrm9fFTmpoa5wQ_cd7288dd597743a2a6e38ee0686621f1_Screenshot-2021-04-30-10 50 55-AM](https://user-images.githubusercontent.com/72023291/182603607-9d384618-b0f3-425d-a4e3-03c31bcfc576.png)
+
