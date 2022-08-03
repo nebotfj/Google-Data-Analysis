@@ -197,3 +197,40 @@ Lo más importante es **recordar cómo usar SELECT, FROM y WHERE en una consulta
 
 ### Condiciones WHERE 
 La cláusula **WHERE** restringe la consulta para que la base de datos devuelva solo los datos con una coincidencia de valor exacta, o los datos que coincidan con una determinada condición que deseas satisfacer. 
+
+WHERE field1 = 'Chavez' # si estás buscando a un cliente específico con el apellido Chavez
+WHERE field1 LIKE 'Ch%' #si estás buscando a todos los clientes que tienen un apellido que empieza con las letras “Ch”
+ - la cláusula LIKE  permite decir a la base de datos que busque un patrón determinado.
+ - El signo de porcentaje (%) se usa como comodín para que coincida con uno o más caracteres.
+   - algunas bases de datos se usa un asterisco (*) como comodín en lugar de un signo de porcentaje (%).
+   
+### Elegir (SELECT) todas las columnas
+si reemplazaras SELECT field1 por SELECT * , elegirías todas las columnas de la tabla en lugar de la columna field1 sola. Según cuántas columnas tenga una tabla, es posible que elijas una enorme cantidad de datos. Si eliges demasiados datos, es posible que la consulta se ejecute muy lentamente.
+
+### Comentarios
+Puedes agregar comentarios junto a tu SQL para ayudarte a recordar qué representa el nombre. Los comentarios son textos colocados entre ciertos caracteres
+- /* y */, 
+- o después de dos guiones (--), como se muestra a continuación. 
+![k4wKMVuhQ6iMCjFbodOopA_eabf1858723e4c43a78ba734f9e40ff1_Screenshot-2021-04-30-10 53 40-AM](https://user-images.githubusercontent.com/72023291/182604839-1f427566-1e88-4cfa-a198-3bb86b4efaf5.png)
+Los comentarios también se pueden agregar dentro o fuera de una instrucción. Puedes usar esta flexibilidad para proporcionar una descripción general de lo que harás, notas paso a paso sobre cómo lo lograrás y por qué estableces diferentes parámetros o condiciones. 
+<img width="651" alt="TFj1L_EOTEWY9S_xDnxFCg_7e7ee9689e884f4ab4bbbcaac34c1616_Screen-Shot-2020-11-11-at-4 30 48-PM" src="https://user-images.githubusercontent.com/72023291/182604920-cd5eb080-e3d6-4c49-987a-e0bae77c4dbb.png">
+
+### Ejemplo de una consulta con comentarios en BigQuery
+<img width="629" alt="YFUj-vGxT4aVI_rxsY-GGg_0a4b434ac7c14176a192d0f65be62142_Screen-Shot-2020-11-11-at-4 32 20-PM" src="https://user-images.githubusercontent.com/72023291/182605082-eeae84c4-2890-4149-afa1-1eef78974922.png">
+Puedes usar # en lugar de -- en la consulta anterior, pero # no se reconoce en todas las versiones de SQL; por ejemplo, MySQL no reconoce #.  También puedes colocar comentarios entre /* y */ si la base de datos que estás usando lo permite.
+
+### Alias
+Asignar un nuevo nombre o alias a los nombres de columna o tabla para que sea más fácil trabajar con ellos (y evitar la necesidad de agregar comentarios). **Esto se hace con una cláusula SQL AS.**
+En el siguiente ejemplo, se asigna el alias last_name a field1 y el alias customers a table.Estos alias son válidos solo para la duración de la consulta. Un alias no cambia el nombre real de una columna o tabla de la base de datos.
+![xWaDqVcZSrCmg6lXGSqwAQ_63f4dbb967a848919d5d1f10602926f1_Screenshot-2021-04-30-10 57 42-AM](https://user-images.githubusercontent.com/72023291/182605405-df8e9dd4-98c4-49bb-9ab2-5c372636197b.png)
+
+### Cláusula AND
+Deseas excluir a los datos con el código de trabajo INT que también ganan menos de USD 30,000. La cláusula AND te permite analizar ambas condiciones.
+Creas una consulta SQL similar a la siguiente, en la cual <> significa “no es igual a”:
+![DHE3QIDxTfKxN0CA8R3yZg_9fd64a89db55453e8f54afe7cc672ed5_Updated-image-for-C1M4L3R1](https://user-images.githubusercontent.com/72023291/182606243-4c627fff-21f3-4991-9544-36841feaacaa.png)
+Así, los datos con el código de trabajo INT no se devuelven
+
+### Recursos para más información: 
+- [Tutorial de SQL de W3Schools](https://www.w3schools.com/sql/default.asp): Si te gustaría explorar un tutorial detallado de SQL, este es el lugar perfecto para empezar. Este tutorial incluye ejemplos interactivos que puedes editar, analizar y recrear. Úsalo como referencia o completa todo el tutorial para practicar el uso de SQL. Haz clic en el botón verde Empezar el aprendizaje de SQL ahora o en el botón Siguiente para comenzar el tutorial.
+
+- [Hoja de referencia de SQL](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa): Si eres un estudiante más avanzado, lee este artículo para obtener información sobre la sintaxis SQL estándar que se usa en PostgreSQL. Cuando finalices, sabrás mucho más sobre SQL y estarás preparado para aplicarlo en el análisis empresarial y otras tareas.
