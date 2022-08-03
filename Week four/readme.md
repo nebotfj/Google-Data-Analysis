@@ -193,4 +193,7 @@ Lo más importante es **recordar cómo usar SELECT, FROM y WHERE en una consulta
 - Puedes escribir tus consultas SQL solo en minúsculas, y no tienes que preocuparte por los espacios adicionales entre palabras
 - el uso de mayúsculas y sangría puede ayudarte a leer la información más fácilmente
 ![xv18VOamRrm9fFTmpoa5wQ_cd7288dd597743a2a6e38ee0686621f1_Screenshot-2021-04-30-10 50 55-AM](https://user-images.githubusercontent.com/72023291/182603607-9d384618-b0f3-425d-a4e3-03c31bcfc576.png)
+**Ten cuenta que la instrucción SQL que se muestra arriba tiene un punto y coma al final. El punto y coma es un terminador de instrucción que forma parte de la norma SQL-92 del Instituto Nacional Estadounidense de Estándares (ANSI), la cual es una sintaxis común recomendada para su adopción por todas las bases de datos SQL. Sin embargo, no todas las bases de datos SQL han adoptado o cumplido con el uso del punto y coma, por lo que es posible que te encuentres con algunas instrucciones SQL que no terminan con un punto y coma. Si una instrucción funciona sin punto y coma, es correcta.**
 
+### Condiciones WHERE 
+La cláusula **WHERE** restringe la consulta para que la base de datos devuelva solo los datos con una coincidencia de valor exacta, o los datos que coincidan con una determinada condición que deseas satisfacer. 
