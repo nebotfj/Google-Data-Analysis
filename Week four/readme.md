@@ -231,6 +231,6 @@ Creas una consulta SQL similar a la siguiente, en la cual <> significa “no es 
 Así, los datos con el código de trabajo INT no se devuelven
 
 ### Recursos para más información: 
-- [Tutorial de SQL de W3Schools](https://www.w3schools.com/sql/default.asp): Si te gustaría explorar un tutorial detallado de SQL, este es el lugar perfecto para empezar. Este tutorial incluye ejemplos interactivos que puedes editar, analizar y recrear. Úsalo como referencia o completa todo el tutorial para practicar el uso de SQL. Haz clic en el botón verde Empezar el aprendizaje de SQL ahora o en el botón Siguiente para comenzar el tutorial.
+- [Tutorial de SQL de W3Schools](https://www.w3schools.com/sql/default.asp): Tutorial detallado de SQL. Incluye ejemplos interactivos que puedes editar, analizar y recrear. Úsalo como referencia o completa todo el tutorial para practicar el uso de SQL.
 
-- [Hoja de referencia de SQL](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa): Si eres un estudiante más avanzado, lee este artículo para obtener información sobre la sintaxis SQL estándar que se usa en PostgreSQL. Cuando finalices, sabrás mucho más sobre SQL y estarás preparado para aplicarlo en el análisis empresarial y otras tareas.
+- [Hoja de referencia de SQL](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa): Si eres un estudiante más avanzado, lee este artículo para obtener información sobre la sintaxis SQL estándar que se usa en PostgreSQL.
