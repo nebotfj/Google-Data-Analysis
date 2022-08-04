@@ -236,3 +236,13 @@ Así, los datos con el código de trabajo INT no se devuelven
 - [Tutorial de SQL de W3Schools](https://www.w3schools.com/sql/default.asp): Tutorial detallado de SQL. Incluye ejemplos interactivos que puedes editar, analizar y recrear. Úsalo como referencia o completa todo el tutorial para practicar el uso de SQL.
 
 - [Hoja de referencia de SQL](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa): Si eres un estudiante más avanzado, lee este artículo para obtener información sobre la sintaxis SQL estándar que se usa en PostgreSQL.
+
+## Data visualization tools
+### Software de visualización (Tableau)
+[Recursos de Video instructivo](https://public.tableau.com/en-us/s/resources)
+
+### Lenguaje de programación (R con RStudio)
+[RStudio](https://www.rstudio.com/)
+* [Hojas de referencia de RStudio](https://www.rstudio.com/resources/cheatsheets/)
+* [Guía de iniciación a la visualización de datos de RStudio](https://www.coursera.org/learn/aspectos-basicos-datos-datos-en-todas-partes/supplement/xPmo7/planificar-una-visualizacion-de-datos)
+
