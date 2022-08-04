@@ -246,3 +246,6 @@ Así, los datos con el código de trabajo INT no se devuelven
 * [Hojas de referencia de RStudio](https://www.rstudio.com/resources/cheatsheets/)
 * [Guía de iniciación a la visualización de datos de RStudio](https://www.coursera.org/learn/aspectos-basicos-datos-datos-en-todas-partes/supplement/xPmo7/planificar-una-visualizacion-de-datos)
 
+## Glossary
+### Data Analytics
+[Terms and Definitions](https://docs.google.com/document/d/1lKONOqBU0A-M_ebFIt4inQDI9Xht_hUyjUMvzI38XJ0/edit?resourcekey=0-SwDtBOdCYJF7FJUgULJ_fQ)
