@@ -10,3 +10,16 @@ Las empresas de todo tipo valoran el trabajo realizado por los analistas de dato
 * Determinar si el uso de datos constituye prácticas justas o injustas
 * Comprender las diferentes formas en que las organizaciones usan los datos
 * Explicar el concepto de toma de decisiones basada en datos, incluidos ejemplos concretos
+
+### El proceso de análisis de datos
+Identificaste una pregunta para responder y trabajaste sistemáticamente en el proceso de análisis de datos para responder a esa pregunta:
+
+1. **Formulaste una pregunta** interesante y definiste un problema que resolver mediante el análisis de datos. 
+2. Pensaste qué datos necesitarías y cómo los recopilarías para **prepararte** para el análisis.
+3. **Procesaste los datos** organizándolos y estructurándolos en una tabla y luego transfiriéndolos a una hoja de cálculo. 
+4. **Analizaste** tus datos inspeccionándolos y explorándolos en busca de patrones.
+5. **Compartiste** tu primera **visualización de datos**: un gráfico de barras.
+6. **Actuaste:** Reflexionaste sobre tus resultados, **tomaste decisiones** y obtuviste información sobre tu problema, incluso si esa información era que no tenías suficientes datos o que no había patrones obvios en tus datos.
+
+### Accede al registro de aprendizaje
+[Reflexiona sobre el proceso de análisis de datos](https://docs.google.com/document/d/1MCgIOQk2eW77ZBpJ6ygRcrkdJ1aLuQd3IrkqsMpys5c/template/preview)
