@@ -1,4 +1,4 @@
-## Configura tu caja de herramientas
+## Configura tu caja de herramientas (Data Amalysis Toolbox)
 Durante el aprendizaje, las hojas de cálculo, el lenguaje de consulta y la visualización de datos son una parte importante del trabajo de un analista de datos. En esta parte del curso, aprenderás más sobre los conceptos básicos involucrados y explorarás algunos ejemplos de cómo funcionan estas herramientas.
 
 ### objetivos de aprendizaje
