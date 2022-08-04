@@ -12,6 +12,8 @@ Durante el aprendizaje, las hojas de cálculo, el lenguaje de consulta y la visu
   * Spreadsheets
   * SQL
   * Data visualization tools
+     * Tableau
+     * RStudio
 
 ### Más recursos de hojas de cálculo
 Para reforzar el aprendizaje permanente, es importante que tengas recursos para consultar cuando quieras saber más sobre el uso de hojas de cálculo. Dos de las plataformas de hojas de cálculo más conocidas y que más se usan son Google Sheets y Microsoft Excel. Ambas ofrecen recursos de capacitación en línea gratuitos a los que puedes acceder cuando sea necesario. Marca estos enlaces si quieres acceder a ellos más tarde.
