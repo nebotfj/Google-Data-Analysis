@@ -23,3 +23,9 @@ Identificaste una pregunta para responder y trabajaste sistemáticamente en el p
 
 ### Accede al registro de aprendizaje
 [Reflexiona sobre el proceso de análisis de datos](https://docs.google.com/document/d/1MCgIOQk2eW77ZBpJ6ygRcrkdJ1aLuQd3IrkqsMpys5c/template/preview)
+
+
+PD: 
+- Business Task
+- Data-driven decision-making: Using fact to guide business strategy
+- Fairness: Ensuring that your analysis doen´t create or reinforce bias
