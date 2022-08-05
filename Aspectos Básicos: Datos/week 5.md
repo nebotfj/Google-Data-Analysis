@@ -41,7 +41,7 @@ Identificaste una pregunta para responder y trabajaste sistemáticamente en el p
 | --- | --- | --- | --- |
 | **Resolución de problemas** |  Utilizar las herramientas y los métodos existentes para resolver problemas con los tipos de datos existentes | Inventar nuevas herramientas y modelos, plantear preguntas abiertas y recopilar nuevos tipos de datos | Utilizar un conocimiento profundo de las bases de datos como herramienta para resolver problemas y admistrar datos | 
 | **Análisis** | Analizar los datos recopilados para ayudar a los interesados a tomar mejores decisiones | Analizar e interpretar datos complejos para hacer predicciones comerciales | Organizar grandes volúmenes de datos para utilizarlos en análisis de datos u operaciones empresariales |
-| *Otras habilidades relacionadas |
+| **Otras habilidades relacionadas |
 
 ### Especializaciones laborales por industria 
 Aprendimos que la función de especialista en datos se concentra en el conocimiento profundo de las bases de datos. De manera similar, otras funciones especializadas de los analistas de datos pueden centrarse en el conocimiento profundo de industrias específicas.Otros puestos de especialistas específicos de la industria que puedes encontrar en la búsqueda de empleo de analista de datos incluyen los siguientes:
