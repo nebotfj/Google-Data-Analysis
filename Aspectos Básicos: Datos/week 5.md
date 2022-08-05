@@ -25,7 +25,34 @@ Identificaste una pregunta para responder y trabajaste sistemáticamente en el p
 [Reflexiona sobre el proceso de análisis de datos](https://docs.google.com/document/d/1MCgIOQk2eW77ZBpJ6ygRcrkdJ1aLuQd3IrkqsMpys5c/template/preview)
 
 
-PD: 
+## Funciones y descripciones del puesto del analista de datos
+### Decodificación de la descripción del puesto
+- Analista de negocios: analiza los datos para ayudar a las empresas a mejorar los procesos, productos o servicios
+- Analista de inteligencia empresarial: analiza los datos para obtener información financiera o del mercado
+- Consultor en análisis de datos: analiza los sistemas y modelos para el uso de datos
+- Ingeniero de datos: prepara e integra datos de diferentes fuentes para uso analítico
+- Científico de datos: utiliza habilidades-+ en tecnología y ciencias sociales para encontrar tendencias a través del análisis de datos
+- Especialista en datos: organiza o convierte los datos para utilizarlos en bases de datos o sistemas de software
+- Analista de operaciones: analiza los datos para evaluar el rendimiento de las operaciones y los flujos de trabajo del negocio
+
+### Decodificación de la descripción del puesto
+
+| | **Analistas de datos** | **Científicos de datos** | **Especialistas de datos**
+| --- | --- | --- | --- |
+| **Resolución de problemas** |  Utilizar las herramientas y los métodos existentes para resolver problemas con los tipos de datos existentes | Inventar nuevas herramientas y modelos, plantear preguntas abiertas y recopilar nuevos tipos de datos | Utilizar un conocimiento profundo de las bases de datos como herramienta para resolver problemas y admistrar datos | 
+| **Análisis** | Analizar los datos recopilados para ayudar a los interesados a tomar mejores decisiones | Analizar e interpretar datos complejos para hacer predicciones comerciales | Organizar grandes volúmenes de datos para utilizarlos en análisis de datos u operaciones empresariales |
+| *Otras habilidades relacionadas |
+
+### Especializaciones laborales por industria 
+Aprendimos que la función de especialista en datos se concentra en el conocimiento profundo de las bases de datos. De manera similar, otras funciones especializadas de los analistas de datos pueden centrarse en el conocimiento profundo de industrias específicas.Otros puestos de especialistas específicos de la industria que puedes encontrar en la búsqueda de empleo de analista de datos incluyen los siguientes:
+- **nalista de marketing:** analiza las condiciones del mercado para evaluar las ventas potenciales de productos y servicios 
+- **Analista de recursos humanos y nóminas:** analiza los datos de nómina en busca de ineficiencias y errores
+- **Analista financiero:** analiza el estado financiero mediante la recopilación, el monitoreo y la revisión de datos
+- **Analista de riesgos:** analiza documentos financieros, condiciones económicas y datos de clientes para ayudar a las empresas a determinar el nivel de riesgo que implica tomar una decisión empresarial concreta
+- **Analista sanitario:** analiza los datos médicos para mejorar el aspecto empresarial de los hospitales y las instalaciones médicas
+
+PD:
 - Business Task
 - Data-driven decision-making: Using fact to guide business strategy
 - Fairness: Ensuring that your analysis doen´t create or reinforce bias
+https://www.ibm.com/downloads/cas/3RL3VXGA
