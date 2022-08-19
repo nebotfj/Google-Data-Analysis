@@ -14,7 +14,7 @@ Echa un vistazo a todos los Certificados Profesionales de Google aquí.
 Cita: *según las respuestas de la encuesta de graduados del programa, Estados Unidos, 2021
 
 - [Aspectos básicos: Datos, datos, en todas partes](https://github.com/sirjn/Google-Data-Analysis/tree/main/Aspectos%20B%C3%A1sicos:%20Datos)
-- Formula preguntas para tomar decisiones basadas en datos (este curso)
+- [Formula preguntas para tomar decisiones basadas en datos](https://github.com/sirjn/Google-Data-Analysis/tree/main/02%20Formula%20preguntas%20para%20tomar%20decisiones%20basadas%20en%20datos/Week%20one)
 - Prepara datos para la exploración
 - Procesa datos para pasarlos en limpio
 - Analiza datos para responder preguntas
