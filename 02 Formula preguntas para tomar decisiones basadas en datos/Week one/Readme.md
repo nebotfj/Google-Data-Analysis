@@ -94,3 +94,39 @@ Estos seis pasos pueden ayudarte a dividir el proceso de análisis de datos en p
 2. Organizar la información disponible 
 3. Revelar déficits y oportunidades
 4. Identificar tus opciones
+
+## Resolver problemas con datos
+Six common type of problems: 
+
+1. Making predictions,
+
+This problem type involves using data to make an informed decision about how things may be in the future
+Una empresa que quiere conocer el mejor método publicitario para atraer nuevos clientes es un ejemplo de un problema que requiere que los analistas hagan predicciones. Los analistas con datos sobre la ubicación, el tipo de medio y la cantidad de nuevos clientes adquiridos como resultado de anuncios anteriores no pueden garantizar resultados futuros, pero pueden ayudar a predecir la mejor ubicación de la publicidad para llegar al público objetivo.
+
+2. Categorizing things, 
+
+This means assigning information to different groups or clusters based on common features
+Un ejemplo de un problema que requiere que los analistas categoricen cosas es el objetivo de una empresa de mejorar la satisfacción del cliente. Los analistas pueden clasificar las llamadas de servicio de atención al cliente en función de determinadas palabras clave o puntuaciones. Esto podría ayudar a identificar a los representantes de servicio de atención al cliente con mejor desempeño o ayudar a correlacionar ciertas acciones tomadas con puntajes más altos de satisfacción del cliente.
+
+3. spotting something unusual, 
+
+In this problem type, data analysts identify data that is different from the norm.
+Una empresa que vende relojes inteligentes que ayudan a las personas a controlar su salud estaría interesada en diseñar su software para detectar algo inusual. Los analistas que analizaron datos de salud agregados pueden ayudar a los desarrolladores de productos a determinar los algoritmos correctos para detectar y activar alarmas cuando ciertos datos no muestren una tendencia normal.
+
+4. Identifying themes,
+
+Identifying themes takes categorization as a step further by grouping information into broader concepts.
+Los diseñadores de experiencia del usuario (UX) pueden confiar en los analistas para analizar los datos de interacción del usuario. De manera similar a los problemas que requieren que los analistas categoricen las cosas, los proyectos de mejora de la usabilidad pueden requerir que los analistas identifiquen temas para ayudar a priorizar las características correctas del producto para mejorarlas. Los temas se utilizan con mayor frecuencia para ayudar a los investigadores a explorar ciertos aspectos de los datos. En un estudio de usuarios, las creencias, las prácticas y las necesidades de los usuarios son ejemplos de temas.
+
+A estas alturas, es probable que te estés preguntando si existe una diferencia entre categorizar cosas e identificar temas. La mejor manera de pensarlo es la siguiente: categorizar cosas implica asignar elementos a categorías, mientras que identificar temas lleva esas categorías un paso más allá agrupándolas en temas más amplios.
+
+5. Discovering connections, 
+
+enables data analysts to find similar challenges faced by different entities, and then combine data and insights to address them.
+Una empresa de logística de terceros que trabaja con otra empresa para que los envíos se entreguen a tiempo a los clientes es un problema que requiere que los analistas descubran conexiones. Al analizar los tiempos de espera en los centros de envío, los analistas pueden determinar los cambios de programación apropiados para aumentar la cantidad de entregas a tiempo.
+
+6. Finding patterns,
+
+Data analysts use data to find patterns by using historical data to understand what happened in the past and is therefore likely to happen again
+Minimizar el tiempo de inactividad causado por fallas en las máquinas es un ejemplo de un problema que requiere que los analistas busquen patrones en los datos. Por ejemplo, al analizar los datos de mantenimiento, es probable que descubran que la mayoría de las fallas ocurren si el mantenimiento regular se retrasa más de 15 días.
+![QJL2lG1VQxWS9pRtVTMVTw_6217c9fe51ec43f48f02dc4f42cc1d56_Screen-Shot-2020-12-09-at-10 17 12-PM](https://user-images.githubusercontent.com/72023291/185670149-a8810e4e-2650-47a2-b3e5-7f789843ab52.png)
