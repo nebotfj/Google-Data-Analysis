@@ -77,6 +77,7 @@ Preguntas que debes hacerte en este paso:
 - ¿Qué me ayudaría a entender esto si yo fuera el oyente?
 
 ![rWF6jetqTPiheo3rapz48w_cd4afb997b9d449a89223dab279f8f09_DA_C1M1L2R1_F](https://user-images.githubusercontent.com/72023291/185667069-1dcf2d23-49ba-4d9b-aeb4-037f5670ac03.png)
+
 Paso 6: actuar
 Ahora es el momento de actuar sobre los datos. Tomarás todo lo que has aprendido del análisis de datos y lo pondrás en práctica. Esto podría significar brindarles a los interesados recomendaciones basadas en los hallazgos para que puedan tomar decisiones basadas en datos.
 ---
