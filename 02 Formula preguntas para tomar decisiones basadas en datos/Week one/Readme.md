@@ -172,3 +172,5 @@ Esta es una pregunta cerrada porque no anima a las personas a ampliar su respues
 Preguntas imprecisas: preguntas que no son específicas o no ofrecen contexto.
 - Ejemplo: ¿la herramienta funciona para usted?
 Esta pregunta es demasiado imprecisa porque no hay contexto. ¿Se trata de comparar la herramienta nueva con la que reemplaza? Simplemente, no lo sabes. Una mejor pregunta podría ser: "en lo que respecta al ingreso de datos, ¿la herramienta nueva es más rápida, más lenta o casi lo mismo que la antigua? Si es más rápida, ¿cuánto tiempo se ahorra? Si es más lenta, ¿cuánto tiempo se pierde?" Estas preguntas dan contexto (ingreso de datos) y ayudan a enmarcar respuestas que son medibles (tiempo).
+
+[Glossary week one](https://docs.google.com/document/d/1ZbO1bmcWuz-Wx5oA7I-_YEIjEZFoUAiav4XzdCcOc34/edit?resourcekey=0-oopBCAe430jBOx4eauZSKw)
