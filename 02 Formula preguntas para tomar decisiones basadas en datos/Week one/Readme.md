@@ -130,3 +130,45 @@ Una empresa de logística de terceros que trabaja con otra empresa para que los 
 Data analysts use data to find patterns by using historical data to understand what happened in the past and is therefore likely to happen again
 Minimizar el tiempo de inactividad causado por fallas en las máquinas es un ejemplo de un problema que requiere que los analistas busquen patrones en los datos. Por ejemplo, al analizar los datos de mantenimiento, es probable que descubran que la mayoría de las fallas ocurren si el mantenimiento regular se retrasa más de 15 días.
 ![QJL2lG1VQxWS9pRtVTMVTw_6217c9fe51ec43f48f02dc4f42cc1d56_Screen-Shot-2020-12-09-at-10 17 12-PM](https://user-images.githubusercontent.com/72023291/185670149-a8810e4e-2650-47a2-b3e5-7f789843ab52.png)
+
+## Elabora preguntas efectivas
+Smart questions: Las preguntas que conducen a respuestas que pueden cuantificarse y evaluarse se alinean con el componente medible de la metodología (framework) SMART (Specific, Measurable, Action-oriented, Relevant, Time-bound).
+
+### Más información sobre las preguntas SMART
+Hoy en día, las empresas de muchas industrias se enfrentan a cambios rápidos y a una creciente incertidumbre. Incluso las empresas bien establecidas están bajo presión para mantenerse al día con las novedades y descubrir qué viene después. Para hacer eso, deben hacer preguntas. Hacer las preguntas correctas puede ayudar a generar las ideas innovadoras que tantas empresas anhelan en estos días.
+
+Lo mismo ocurre con el análisis de datos. No importa cuánta información tengas o cuán avanzadas sean tus herramientas, los datos no te dirán mucho si no empiezas con las preguntas correctas. Piensa en ello como un detective con toneladas de evidencia que no hace preguntas a un sospechoso clave sobre eso.  A continuación, aprenderás más sobre cómo hacer preguntas altamente efectivas, junto con ciertas prácticas que se recomienda evitar.
+
+#### Las preguntas altamente efectivas son preguntas SMART:
+Específica (Specific) | Medible (Measureable) | Orientada a la acción (Action-oriented) | Relevante (Relevant) | Con plazos determinados (Time-Bound)
+| --- | --- | --- | --- | --- |
+| ¿Es específica la pregunta? ¿Aborda el problema? ¿Tiene contexto? ¿Descubrirá mucha de la información que necesitas? | ¿Te dará la pregunta respuestas que puedas medir? | ¿Las respuestas proporcionarán información que te ayude a diseñar algún tipo de plan de acción? | ¿La pregunta es sobre el problema particular que tratas de resolver? | ¿Son las respuestas relevantes para el momento específico que se estudia? |
+
+#### Ejemplos de preguntas SMART
+Aquí hay un ejemplo que desglosa el proceso de pensamiento de convertir una pregunta problemática en una o más preguntas SMART utilizando el método SMART: ¿Qué características busca la gente al comprar un automóvil nuevo?
+
+- Específica: ¿la pregunta se centra en una característica particular del automóvil?
+- Medible: ¿la pregunta incluye un sistema de clasificación de características?
+- Orientada a la acción: ¿la pregunta influye en la creación de paquetes de características nuevos o diferentes?
+- Relevante: ¿la pregunta identifica qué características constituyen un punto de inflexión en una posible compra de un automóvil?
+- Con plazos determinados: ¿la pregunta valida los datos sobre las características más populares de los últimos tres años? 
+
+Las preguntas deben ser abiertas. Esta es la mejor manera de obtener respuestas que te ayudarán a calificar o descalificar con precisión las posibles soluciones al problema específico. Entonces, según el proceso de pensamiento, las siguientes preguntas podrían ser SMART:
+- En una escala del 1 al 10 (siendo 10 lo más importante), ¿qué importancia tiene que su automóvil cuente con tracción en las cuatro ruedas?
+- ¿Cuáles son las cinco características principales que le gustaría ver en un paquete de automóvil?
+- ¿Qué características, si se incluyen con la tracción en las cuatro ruedas, lo acercarían más a comprar el automóvil?
+- ¿Cuánto más pagaría por un automóvil con tracción en las cuatro ruedas?
+- ¿Se ha vuelto más o menos popular la tracción en las cuatro ruedas en los últimos tres años?
+
+#### Cosas que debes evitar al hacer preguntas
+Preguntas sugestivas: preguntas que solo tienen una respuesta en particular
+- Ejemplo: este producto es demasiado caro, ¿no?
+Esta es una pregunta sugestiva porque sugiere una respuesta como parte de la pregunta. Una pregunta mejor podría ser :"¿cuál es su opinión sobre este producto?" Hay toneladas de respuestas a esa pregunta, y podrían incluir información sobre la usabilidad, las características, los accesorios, el color, la confiabilidad y la popularidad, además del precio. Si el problema se centra realmente en los precios, puedes hacer una pregunta como "¿qué precio (o rango de precios) le haría considerar comprar este producto?" Esta pregunta proporcionaría muchas respuestas medibles diferentes.
+
+Preguntas cerradas: preguntas que piden una respuesta breve o de una sola palabra.
+- Ejemplo: ¿quedó satisfecho con la prueba gratis del software?
+Esta es una pregunta cerrada porque no anima a las personas a ampliar su respuesta. Es muy fácil para ellos dar respuestas de una palabra que no son muy informativas. Una pregunta mejor podría ser: "¿qué aprendió sobre la experiencia del cliente cuando probó el software gratis?" Esto anima a las personas a proporcionar más detalles además de "Estuvo bien".
+
+Preguntas imprecisas: preguntas que no son específicas o no ofrecen contexto.
+- Ejemplo: ¿la herramienta funciona para usted?
+Esta pregunta es demasiado imprecisa porque no hay contexto. ¿Se trata de comparar la herramienta nueva con la que reemplaza? Simplemente, no lo sabes. Una mejor pregunta podría ser: "en lo que respecta al ingreso de datos, ¿la herramienta nueva es más rápida, más lenta o casi lo mismo que la antigua? Si es más rápida, ¿cuánto tiempo se ahorra? Si es más lenta, ¿cuánto tiempo se pierde?" Estas preguntas dan contexto (ingreso de datos) y ayudan a enmarcar respuestas que son medibles (tiempo).
