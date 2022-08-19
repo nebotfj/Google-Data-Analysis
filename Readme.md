@@ -23,3 +23,11 @@ Cita: *según las respuestas de la encuesta de graduados del programa, Estados U
 - Google D​ata Analytics Capstone: completa un caso práctico
 
 Coursera [course](https://www.coursera.org/programs/becas-google-fundae-sepe-analisis-datos-rspys?collectionId=St94l&currentTab=CATALOG&productId=hXUHfDgkEeylXgqHwJpmyQ&productType=s12n&showMiniModal=true)
+
+Consejos
+- Se recomienda encarecidamente repasar los temas del curso en el orden en que aparecen porque cada nueva sección se basa en la información y los conceptos cubiertos en las anteriores. 
+- Aprovecha los recursos adicionales vinculados a lo largo del curso. Están diseñados para respaldar tu aprendizaje. 
+- C​uando encuentres enlaces útiles en el curso, recuerda agregarlos a tus marcadores para que puedas consultar la información y estudiarla o revisarla.
+- Los recursos adicionales son gratuitos, pero algunos sitios tienen restricciones de acceso en cuanto a la cantidad de artículos a los que se puede acceder de forma gratuita cada mes. En algunos casos, puedes registrarte en el sitio para obtener acceso completo, pero siempre puedes marcar un recurso y volver a verlo más tarde.
+- Participa en todas las oportunidades de aprendizaje para obtener el mayor conocimiento y experiencia posibles. 
+- Si algo es confuso, no dudes en volver a ver un video, volver a leer una lectura o buscar recursos adicionales.
