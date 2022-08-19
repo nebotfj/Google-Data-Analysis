@@ -19,6 +19,7 @@ Hay seis fases de análisis de datos que te ayudarán a tomar decisiones fluidas
 
 ![kmiCz2A1Q7Oogs9gNbOzPQ_9d80cefae4cc434eaecaa1ad5c5025f8_DA_C1M1L2R1_A-1-](https://user-images.githubusercontent.com/72023291/185666485-19c0d10c-4bd1-4eda-95b8-501a56f6de33.png)
 Paso 1: preguntar
+
 - Define el problema que tratas de resolver
 - Asegúrate de entender completamente las expectativas de los interesados
 - Concéntrate en el problema real y evita las distracciones
@@ -31,6 +32,7 @@ Preguntas que debes hacerte en este paso:
 
 ![3CybSa2UQhqsm0mtlBIaIw_ff8cf6066c4a410196171e7b36d703c4_DA_C1M1L2R1_B](https://user-images.githubusercontent.com/72023291/185666638-feeb4776-844e-41a2-a812-ac8e3a26b4fc.png)
 Paso 2: preparar 
+
 Decidirás qué datos necesitas recopilar para responder a sus preguntas y cómo organizarlos para que sean útiles: 
 - Que métricas medir
 - Localizar datos en tu base de datos
@@ -42,6 +44,7 @@ Preguntas que debes hacerte en este paso:
 
 ![lDcry8F7S323K8vBe7t9bg_66089daf263e4264b0a2178dba173448_DA_C1M1L2R1_C](https://user-images.githubusercontent.com/72023291/185666754-bd9c6fd7-691c-4bdb-9e79-16be4b44f942.png)
 Paso 3: procesar
+
 Los datos limpios son los mejores datos y deberás limpiar los datos para deshacerte de posibles errores, inexactitudes o incoherencias:
 - Usar funciones de las hojas de cálculo para encontrar datos ingresados incorrectamente
 - Usar funciones SQL para buscar espacios adicionales
@@ -54,6 +57,7 @@ Preguntas que debes hacerte en este paso:
 
 ![sYq9TbgfTv2KvU24Hw79gg_da4f5051005e42779f15a718c3fbbedd_DA_C1M1L2R1_D](https://user-images.githubusercontent.com/72023291/185666886-27411f44-9d63-496c-8160-2791d78123c1.png)
 Paso 4: analizar 
+
 En esta etapa, puedes ordenar y formatear tus datos para que sea más fácil hacer lo siguiente: 
 - Realizar cálculos
 - Combinar datos de varias fuentes
@@ -66,6 +70,7 @@ Preguntas que debes hacerte en este paso:
 
 ![ioCuqp2VT6OArqqdlU-jdQ_30fd6216552a49ef85ffd629ae596f4c_DA_C1M1L2R1_E](https://user-images.githubusercontent.com/72023291/185666974-68211eb0-d708-4908-aade-e0c0a2084794.png)
 Paso 5: compartir
+
 Todos comparten sus resultados diferente, así que asegúrate de resumir los resultados con imágenes claras y atractivas de tu análisis usando herramientas de visualización de datos como los gráficos o los paneles: 
 - Tomar mejores decisiones
 - Tomar decisiones más informadas
@@ -77,8 +82,8 @@ Preguntas que debes hacerte en este paso:
 - ¿Qué me ayudaría a entender esto si yo fuera el oyente?
 
 ![rWF6jetqTPiheo3rapz48w_cd4afb997b9d449a89223dab279f8f09_DA_C1M1L2R1_F](https://user-images.githubusercontent.com/72023291/185667069-1dcf2d23-49ba-4d9b-aeb4-037f5670ac03.png)
-
 Paso 6: actuar
+
 Ahora es el momento de actuar sobre los datos. Tomarás todo lo que has aprendido del análisis de datos y lo pondrás en práctica. Esto podría significar brindarles a los interesados recomendaciones basadas en los hallazgos para que puedan tomar decisiones basadas en datos.
 ---
 Preguntas que debes hacerte en este paso:
