@@ -13,7 +13,7 @@ Echa un vistazo a todos los Certificados Profesionales de Google aquí.
 
 Cita: *según las respuestas de la encuesta de graduados del programa, Estados Unidos, 2021
 
-- Aspectos básicos: Datos, datos, en todas partes
+- [Aspectos básicos: Datos, datos, en todas partes](https://github.com/sirjn/Google-Data-Analysis/tree/main/Aspectos%20B%C3%A1sicos:%20Datos)
 - Formula preguntas para tomar decisiones basadas en datos (este curso)
 - Prepara datos para la exploración
 - Procesa datos para pasarlos en limpio
