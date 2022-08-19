@@ -21,3 +21,5 @@ Cita: *según las respuestas de la encuesta de graduados del programa, Estados U
 - Comparte datos a través del arte de la visualización
 - Análisis de datos con programación en R
 - Google D​ata Analytics Capstone: completa un caso práctico
+
+Coursera [course](https://www.coursera.org/programs/becas-google-fundae-sepe-analisis-datos-rspys?collectionId=St94l&currentTab=CATALOG&productId=hXUHfDgkEeylXgqHwJpmyQ&productType=s12n&showMiniModal=true)
