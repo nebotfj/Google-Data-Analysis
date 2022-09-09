@@ -45,6 +45,7 @@ Dashboard: Un panel, monitorea los datos entrantes en vivo.
   
   Pivot Table (Tabla dinámica)
 Una tabla dinámica es una herramienta de resumen de datos utilizada en el procesamiento de datos. Las tablas dinámicas se usan para resumir, ordenar, reorganizar, agrupar, contabilizar, totalizar o promediar los datos almacenados en una base de datos. Permite que los usuarios transformen las columnas en filas y las filas en columnas.
+
 A data summarization tool that is used in data processing. Pivot tables are used to summarize, sort, reorganize, group, count, total or average data stored in a database.
   
 
