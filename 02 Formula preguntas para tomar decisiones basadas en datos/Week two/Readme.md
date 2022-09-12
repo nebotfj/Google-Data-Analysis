@@ -55,6 +55,7 @@ Objetivo métrico (Metric Goal) Conjunto de objetivos medibles establecido por u
 
 ## LA BELLEZA DE LOS PANELES
 | Beneficios | Para los analistas de datos | Para los interesados | 
+--- | --- | ---
 | Centralización | Compartir una única fuente de datos con todos los interesados | Trabajar con una visión integral de datos, iniciativas, objetivos, proyectos, procesos y más |
 | Visualización | Mostrar y actualizar datos entrantes en vivo en tiempo real* | Detectar patrones y tendencias cambiantes más rápidamente
 | Percepción | Extraer información relevante de diferentes conjuntos de datos | Comprender la historia detrás de los números para realizar un seguimiento de los objetivos y tomar decisiones basadas en datos |
