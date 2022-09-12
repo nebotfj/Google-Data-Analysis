@@ -143,7 +143,7 @@ Tipos de datos: Grandes y pequeños
 Al pensar en los beneficios y desafíos de los macrodatos, es útil pensar en las tres V: volumen, variedad y velocidad. El volumen describe la cantidad de datos. La variedad describe los diferentes tipos de datos. La velocidad describe qué tan rápido se pueden procesar los datos. Algunos analistas de datos también consideran una cuarta V: veracidad. La veracidad se refiere a la calidad y fiabilidad de los datos. Todas estas son consideraciones importantes relacionadas con el procesamiento de conjuntos de datos enormes y complejos. 
 
 | Volumen | Variedad | Velocidad | Veracidad |
---- | --- | ---
+--- | --- | --- | --- 
 | La cantidad de datos | Los diferentes tipos de datos | Qué tan rápido se pueden procesar los datos | La calidad y fiabilidad de los datos |
 
 
