@@ -109,6 +109,7 @@ Tipo de panel más común. Dado que estos paneles contienen información en una 
 
 Esto les permite a las empresas realizar un seguimiento y mantener sus procesos operativos inmediatos a la luz de sus objetivos estratégicos. El panel operativo que aparece a continuación se centra en el servicio al cliente.
 
+![b309be6b-1903-4111-b327-0bccf889876bimage5](https://user-images.githubusercontent.com/72023291/189641638-00ee5f14-91a6-41bc-8fe9-06f9e28711b2.png)
 
 3. Paneles analíticos
 
@@ -116,18 +117,7 @@ Los paneles analíticos contienen una gran cantidad de datos utilizados por los 
 
 Es la categoría más técnica; los paneles analíticos suelen ser creados y mantenidos por equipos de ciencia de datos y rara vez se comparten con la alta dirección, ya que pueden ser muy difíciles de entender. El panel analítico que aparece a continuación se centra en las métricas del desempeño financiero de una empresa.
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/b309be6b-1903-4111-b327-0bccf889876bimage6.png?expiry=1663113600000&hmac=kTJ-pzYIh6yAQu-6bqRFoNLHMa_4tuAtHM3mZCfl2i4]
-
-Reflexión
-
-
-Ten en cuenta los diferentes tipos de paneles:
-
-¿En qué se parecen los distintos tipos de paneles entre sí?
-
-¿En qué se diferencian?
-
-Escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de estas preguntas. Escribe tu respuesta en el cuadro de texto que aparece a continuación.
+![b309be6b-1903-4111-b327-0bccf889876bimage6](https://user-images.githubusercontent.com/72023291/189641592-3fa84c8e-7dfd-4dda-a8ec-02045896112f.png)
 
 
 
