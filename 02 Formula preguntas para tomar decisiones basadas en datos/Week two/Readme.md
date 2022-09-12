@@ -47,5 +47,18 @@ Dashboard: Un panel, monitorea los datos entrantes en vivo.
 Una tabla dinámica es una herramienta de resumen de datos utilizada en el procesamiento de datos. Las tablas dinámicas se usan para resumir, ordenar, reorganizar, agrupar, contabilizar, totalizar o promediar los datos almacenados en una base de datos. Permite que los usuarios transformen las columnas en filas y las filas en columnas.
 
 A data summarization tool that is used in data processing. Pivot tables are used to summarize, sort, reorganize, group, count, total or average data stored in a database.
+
+##DATOS VS METRICAS 
+
+Metricas (Metric) Una métrica es un tipo único y cuantificable de datos que pueden utilizarse para le medición
+Objetivo métrico (Metric Goal) Conjunto de objetivos medibles establecido por una empresa y evaluado mediante métricas.
+
+## LA BELLEZA DE LOS PANELES
+| Beneficios | Para los analistas de datos | Para los interesados | 
+| Centralización | Compartir una única fuente de datos con todos los interesados | Trabajar con una visión integral de datos, iniciativas, objetivos, proyectos, procesos y más |
+| Visualización | Mostrar y actualizar datos entrantes en vivo en tiempo real* | Detectar patrones y tendencias cambiantes más rápidamente
+| Percepción | Extraer información relevante de diferentes conjuntos de datos | Comprender la historia detrás de los números para realizar un seguimiento de los objetivos y tomar decisiones basadas en datos |
+| Personalización | Crear vistas personalizadas dedicadas a una persona específica, un proyecto o una presentación de los datos |  Profundizar en áreas más específicas de preocupaciones o intereses especializados |
+
   
 
