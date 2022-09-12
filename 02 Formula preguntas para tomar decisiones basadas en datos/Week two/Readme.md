@@ -63,3 +63,4 @@ Objetivo métrico (Metric Goal) Conjunto de objetivos medibles establecido por u
 
   
 
+[Requirements+Gathering+Worksheet (1).pdf](https://github.com/sirjn/Google-Data-Analysis/files/9547376/Requirements%2BGathering%2BWorksheet.1.pdf)
