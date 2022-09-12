@@ -50,8 +50,8 @@ A data summarization tool that is used in data processing. Pivot tables are used
 
 ##DATOS VS METRICAS 
 
-Metricas (Metric) Una métrica es un tipo único y cuantificable de datos que pueden utilizarse para le medición
-Objetivo métrico (Metric Goal) Conjunto de objetivos medibles establecido por una empresa y evaluado mediante métricas.
+- Metricas (Metric) Una métrica es un tipo único y cuantificable de datos que pueden utilizarse para le medición
+- Objetivo métrico (Metric Goal) Conjunto de objetivos medibles establecido por una empresa y evaluado mediante métricas.
 
 ## LA BELLEZA DE LOS PANELES
 | Beneficios | Para los analistas de datos | Para los interesados | 
