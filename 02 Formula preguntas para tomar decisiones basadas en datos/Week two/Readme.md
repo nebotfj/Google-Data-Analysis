@@ -76,7 +76,7 @@ Sigue estos consejos para que el diseño de tu panel sea claro, fácil de seguir
 4. Selecciona las visualizaciones que utilizarás en el panel
 <img width="831" alt="LNd1iz7jT-aXdYs-40_m5w_b74f77a457b64a2fadf07d9b57496816_Screen-Shot-2020-12-11-at-11 51 45-AM" src="https://user-images.githubusercontent.com/72023291/189639275-60823a4d-97af-4bee-8cc4-002492543a8d.png">
 
-Para obtener más información sobre cómo elegir las visualizaciones correctas, consulta el breve curso de (Looker sobre cómo diseñar excelentes paneles)[https://training.looker.com/designing-great-dashboards]. Simplemente regístrate y podrás acceder al tutorial completo de forma gratuita. También puedes visitar las galerías de Tableau:
+Para obtener más información sobre cómo elegir las visualizaciones correctas, consulta el breve curso de [Looker sobre cómo diseñar excelentes paneles](https://training.looker.com/designing-great-dashboards). Simplemente regístrate y podrás acceder al tutorial completo de forma gratuita. También puedes visitar las galerías de Tableau:
 
 Para obtener más muestras de gráficos de área, gráficos de columnas y otras visualizaciones, visita la Galería de visualizaciones de Tableau. Esta galería está repleta de buenos ejemplos que fueron creados usando datos reales; explora este recurso por tu cuenta para obtener algo de inspiración.
 
