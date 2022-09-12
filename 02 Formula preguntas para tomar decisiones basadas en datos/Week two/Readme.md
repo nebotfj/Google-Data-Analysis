@@ -119,6 +119,33 @@ Es la categoría más técnica; los paneles analíticos suelen ser creados y man
 
 ![b309be6b-1903-4111-b327-0bccf889876bimage6](https://user-images.githubusercontent.com/72023291/189641592-3fa84c8e-7dfd-4dda-a8ec-02045896112f.png)
 
+## Mathematival Thinking
+El pensamiento matemático es una habilidad poderosa que puedes usar para ayudarte a resolver problemas y crear soluciones. Conssite en desglosar un problema para poderlo analizar paso a paso y poder ver las relaciones que existan entre los patrones
+
+
+Tipos de datos: Grandes y pequeños 
+- Small data:
+  - Specific
+  - Short time-period
+  - Day-to-day decisions
+
+- Big data
+  - Large and less-specific
+  - Long timpe-period
+
+## MACRODATOS Y MICRODATOS
+
+![qqMx90uPSXKjMfdLjylyhA_9446c4e043cb4cc69815ba1bd2d14649_Screen-Shot-2021-03-04-at-4 18 56-PM](https://user-images.githubusercontent.com/72023291/189643728-17d990b6-cf3c-4648-bf0c-a7d2336fe50d.png)
+
+![image](https://user-images.githubusercontent.com/72023291/189643801-ce26a1ad-b456-4bf2-b5df-591bf8694259.png)
+
+### Las tres (o cuatro) palabras V para los macrodatos
+Al pensar en los beneficios y desafíos de los macrodatos, es útil pensar en las tres V: volumen, variedad y velocidad. El volumen describe la cantidad de datos. La variedad describe los diferentes tipos de datos. La velocidad describe qué tan rápido se pueden procesar los datos. Algunos analistas de datos también consideran una cuarta V: veracidad. La veracidad se refiere a la calidad y fiabilidad de los datos. Todas estas son consideraciones importantes relacionadas con el procesamiento de conjuntos de datos enormes y complejos. 
+
+| Volumen | Variedad | Velocidad | Veracidad |
+|---|
+| La cantidad de datos | Los diferentes tipos de datos | Qué tan rápido se pueden procesar los datos | La calidad y fiabilidad de los datos |
+
 
 
 
