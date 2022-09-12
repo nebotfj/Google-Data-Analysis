@@ -87,3 +87,49 @@ Los filtros muestran ciertos datos mientras ocultan el resto de los datos de un 
 
 Los paneles forman parte de un viaje de negocios
 **Si agregas marcadores claros y resaltas los puntos importantes en tu panel, los usuarios entenderán hacia dónde se dirige tu historia de datos. Luego, pueden trabajar juntos para asegurarse de que la empresa llegue a donde debe ir.**
+
+
+# TIPOS DE PANELES
+___
+Las tres categorías más comunes son las siguientes:
+
+- Estratégico: se centra en objetivos y estrategias a largo plazo al más alto nivel de métricas
+- Operativo: presenta un seguimiento del desempeño a corto plazo y objetivos intermedios
+- Analítico: consiste en los conjuntos de datos y las matemáticas que se usan en estos conjuntos
+
+1. Paneles estratégicos
+
+Una amplia gama de empresas usan paneles estratégicos para evaluar y alinear sus objetivos estratégicos. Estos paneles proporcionan información durante el período más largo, desde un único trimestre financiero hasta años.
+
+Por lo general, contienen información útil para la toma de decisiones en toda la empresa. A continuación, se muestra un ejemplo de un panel estratégico que se centra en los indicadores clave de rendimiento (KPI) durante un año.
+![b309be6b-1903-4111-b327-0bccf889876bimage4](https://user-images.githubusercontent.com/72023291/189640527-7b1388fe-8d94-44ef-bc1f-2a89e2060488.png)
+
+2. Paneles operativos
+Tipo de panel más común. Dado que estos paneles contienen información en una escala temporal de días, semanas o meses, pueden proporcionar información sobre el desempeño casi en tiempo real.
+
+Esto les permite a las empresas realizar un seguimiento y mantener sus procesos operativos inmediatos a la luz de sus objetivos estratégicos. El panel operativo que aparece a continuación se centra en el servicio al cliente.
+
+
+3. Paneles analíticos
+
+Los paneles analíticos contienen una gran cantidad de datos utilizados por los analistas de datos. Estos paneles contienen los detalles relacionados con el uso, el análisis y las predicciones realizadas por los científicos de datos.
+
+Es la categoría más técnica; los paneles analíticos suelen ser creados y mantenidos por equipos de ciencia de datos y rara vez se comparten con la alta dirección, ya que pueden ser muy difíciles de entender. El panel analítico que aparece a continuación se centra en las métricas del desempeño financiero de una empresa.
+
+https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/b309be6b-1903-4111-b327-0bccf889876bimage6.png?expiry=1663113600000&hmac=kTJ-pzYIh6yAQu-6bqRFoNLHMa_4tuAtHM3mZCfl2i4
+
+Reflexión
+
+
+Ten en cuenta los diferentes tipos de paneles:
+
+¿En qué se parecen los distintos tipos de paneles entre sí?
+
+¿En qué se diferencian?
+
+Escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de estas preguntas. Escribe tu respuesta en el cuadro de texto que aparece a continuación.
+
+
+
+
+
