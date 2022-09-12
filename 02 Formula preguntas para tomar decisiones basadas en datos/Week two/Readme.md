@@ -61,6 +61,30 @@ Objetivo métrico (Metric Goal) Conjunto de objetivos medibles establecido por u
 | Percepción | Extraer información relevante de diferentes conjuntos de datos | Comprender la historia detrás de los números para realizar un seguimiento de los objetivos y tomar decisiones basadas en datos |
 | Personalización | Crear vistas personalizadas dedicadas a una persona específica, un proyecto o una presentación de los datos |  Profundizar en áreas más específicas de preocupaciones o intereses especializados |
 
-  
-
+### Creación de un panel. Aquí hay un proceso que puedes seguir para crear un panel:
+1. Identificar a los interesados que necesitan ver los datos y cómo los usarán
 [Requirements+Gathering+Worksheet (1).pdf](https://github.com/sirjn/Google-Data-Analysis/files/9547376/Requirements%2BGathering%2BWorksheet.1.pdf)
+
+2. Diseñar el panel (lo que se debe mostrar)
+Sigue estos consejos para que el diseño de tu panel sea claro, fácil de seguir y simple:
+- Usa un encabezado claro para etiquetar la información
+- Agrega descripciones de texto cortas a cada visualización
+- Muestra la información más importante en la parte superior
+
+3. Crea prototipos si lo deseas (opcional)
+
+4. Selecciona las visualizaciones que utilizarás en el panel
+<img width="831" alt="LNd1iz7jT-aXdYs-40_m5w_b74f77a457b64a2fadf07d9b57496816_Screen-Shot-2020-12-11-at-11 51 45-AM" src="https://user-images.githubusercontent.com/72023291/189639275-60823a4d-97af-4bee-8cc4-002492543a8d.png">
+
+Para obtener más información sobre cómo elegir las visualizaciones correctas, consulta el breve curso de (Looker sobre cómo diseñar excelentes paneles)[https://training.looker.com/designing-great-dashboards]. Simplemente regístrate y podrás acceder al tutorial completo de forma gratuita. También puedes visitar las galerías de Tableau:
+
+Para obtener más muestras de gráficos de área, gráficos de columnas y otras visualizaciones, visita la Galería de visualizaciones de Tableau. Esta galería está repleta de buenos ejemplos que fueron creados usando datos reales; explora este recurso por tu cuenta para obtener algo de inspiración.
+
+Explora la Visualización del día de Tableau para ver las visualizaciones seleccionadas por la comunidad. Estas son visualizaciones creadas por usuarios de Tableau y son una excelente manera de obtener más información sobre cómo otros analistas de datos utilizan las herramientas de visualización de datos. 
+
+5. Crea filtros según sea necesario
+
+Los filtros muestran ciertos datos mientras ocultan el resto de los datos de un panel. Esto puede ser de gran ayuda para identificar patrones mientras se mantienen intactos los datos originales. Es común que los analistas de datos usen y compartan el mismo panel, pero administren su parte con un filtro. Para profundizar en los filtros y encontrar un ejemplo de filtros en acción, puedes visitar la página de Tableau en Acciones con filtros. Este es un recurso útil para que guardes y vuelvas a verlo cuando empieces a practicar el uso de los filtros en Tableau por tu cuenta.
+
+Los paneles forman parte de un viaje de negocios
+Al igual que el panel de un avión le muestra al piloto su trayectoria de vuelo, tu panel hace lo mismo para tus interesados. Les ayuda a navegar por la ruta del proyecto dentro de los datos. Si agregas marcadores claros y resaltas los puntos importantes en tu panel, los usuarios entenderán hacia dónde se dirige tu historia de datos. Luego, pueden trabajar juntos para asegurarse de que la empresa llegue a donde debe ir. v
