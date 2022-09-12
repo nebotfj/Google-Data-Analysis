@@ -116,7 +116,7 @@ Los paneles analíticos contienen una gran cantidad de datos utilizados por los 
 
 Es la categoría más técnica; los paneles analíticos suelen ser creados y mantenidos por equipos de ciencia de datos y rara vez se comparten con la alta dirección, ya que pueden ser muy difíciles de entender. El panel analítico que aparece a continuación se centra en las métricas del desempeño financiero de una empresa.
 
-https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/b309be6b-1903-4111-b327-0bccf889876bimage6.png?expiry=1663113600000&hmac=kTJ-pzYIh6yAQu-6bqRFoNLHMa_4tuAtHM3mZCfl2i4
+![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/b309be6b-1903-4111-b327-0bccf889876bimage6.png?expiry=1663113600000&hmac=kTJ-pzYIh6yAQu-6bqRFoNLHMa_4tuAtHM3mZCfl2i4]
 
 Reflexión
 
