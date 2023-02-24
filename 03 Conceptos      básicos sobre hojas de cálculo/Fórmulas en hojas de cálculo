@@ -1,0 +1,50 @@
+Referencia rápida: Fórmulas en hojas de cálculo
+
+
+
+Has aprendido mucho sobre las hojas de cálculo y los distintos tipos de cálculos que ahorran tiempo, así como las características organizacionales que ofrecen. Una de las características más valiosas de la hoja de cálculo es la fórmula. Como recordatorio rápido, una fórmula es un conjunto de instrucciones que hace un cálculo específico usando los datos de una hoja de cálculo. Las fórmulas permiten a los analistas de datos hacer cálculos complejos de forma automática, lo que les ayuda a analizar los datos de manera más efectiva. A continuación, se muestra una guía de referencia rápida para ayudarte a aprovechar las fórmulas al máximo.
+
+Fórmulas
+Conceptos básicos
+Cuando escribes una fórmula en matemáticas, generalmente, termina con un signo igual (2 + 3 = ?). Pero, en el caso de las fórmulas en hojas de cálculo, siempre empiezan con un signo igual (=A2+A3). El signo igual le dice a la hoja de cálculo que lo que sigue es parte de una fórmula, no solo una palabra o un número en una celda. 
+
+Después de escribir el signo igual, la mayoría de las aplicaciones de hoja de cálculo muestran un menú de autocompletar que enumera fórmulas, nombres y cadenas de texto válidos. Esta es una excelente manera de crear y editar fórmulas, al tiempo que se evitan errores de escritura y sintaxis.
+
+Una manera entretenida de aprender nuevas fórmulas consiste, simplemente, en escribir un signo igual y una sola letra del alfabeto. Elige una de las opciones que aparecen para saber lo que hace esa fórmula.
+
+Operadores matemáticos
+Los operadores matemáticos usados en las fórmulas de hoja de cálculo incluyen:
+
+Resta: signo menos (-)
+
+Suma: signo más (+)
+
+División: barra diagonal (/)
+
+Multiplicación: asterisco (*)
+
+Llenado automático
+La esquina inferior derecha de cada celda tiene un controlador de relleno. Es un pequeño cuadro verde en Microsoft Excel y un pequeño cuadro azul en Google Sheets.
+
+Haz clic en el controlador de relleno de una celda y arrástralo hacia abajo en una columna para rellenar automáticamente otras celdas de la columna con el mismo valor o fórmula en esa celda. 
+
+Haz clic en el controlador de relleno de una celda y arrástralo por una fila para rellenar automáticamente otras celdas de la fila con el mismo valor o fórmula en esa celda. 
+
+Si quieres crear una secuencia numérica en una columna o fila, haz lo siguiente: 1) Completa los dos primeros números de la secuencia en dos celdas adyacentes; 2) elige la opción para resaltar las celdas, y 3) arrastra el controlador de relleno hasta la última celda para rellenar la secuencia de números. Por ejemplo, para insertar una secuencia del 1 al 100 en cada fila de la columna A, escribe 1 en la celda A1 y 2 en la celda A2. Luego, elige la opción para resaltar ambas celdas, haz clic en el controlador de relleno de la celda A2 y arrástralo hacia abajo hasta la celda A100. Esto rellena automáticamente los números de manera secuencial para que no tengas que escribirlos en cada celda.
+
+Referencia absoluta
+La referencia absoluta está marcada por un signo de dólar ($). Por ejemplo, =$A$10 tiene referencia absoluta tanto para la columna como para el valor de la fila.
+
+Las referencias relativas (que es lo que normalmente se hace, p. ej., “=A10”) cambiarán cada vez que se copie y pegué la fórmula. Están relacionadas con el lugar donde se encuentra la celda a la que se hace referencia. Por ejemplo, si copias "=A10" en la celda de la derecha, se convertirá en “=B10”. Si se copia la referencia absoluta “=$A$10” en la celda de la derecha, quedará “=$A$10”. Pero si copias $A10 en la celda de abajo, cambiará a $A11 porque el valor de la fila no es una referencia absoluta.
+
+Las referencias absolutas no cambiarán al copiar y pegar la fórmula en una celda diferente. La celda a la que se hace referencia es siempre la misma.
+
+Para cambiar fácilmente entre referencias absolutas y relativas en la barra de fórmulas, resalta la referencia que deseas cambiar y presiona la tecla F4; por ejemplo, si deseas cambiar la referencia absoluta, $A$10, en tu fórmula a una referencia relativa, A10, resalta $A$10 en la barra de fórmulas y, luego, presiona la tecla F4 para hacer el cambio.
+
+Intervalo de datos
+Al hacer clic en tu fórmula, los intervalos de colores te permiten ver qué celdas se están usando en tu hoja de cálculo. Hay diferentes colores para cada intervalo individual en tu fórmula.
+
+En muchas aplicaciones de hojas de cálculo, puedes presionar la tecla F2 (o Enter) para resaltar el intervalo de datos de la hoja de cálculo al que se hace referencia en una fórmula. Haz clic en la celda con la fórmula y, luego, presiona la tecla F2 (o Enter) para resaltar los datos de la hoja de cálculo.
+
+Combinación con funciones
+CONTAR.SI() es una fórmula y una función. Esto significa que la función se ejecuta con base en los criterios establecidos por la fórmula. En este caso, CONTAR es la fórmula; se ejecutará SI las condiciones que creas son verdaderas. Por ejemplo, podrías usar =CONTAR.SI(A1:A16, “7”) para contar solo las celdas que contenían el número 7. La combinación de fórmulas y funciones te permite hacer más con un solo comando.
