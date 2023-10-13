@@ -76,9 +76,9 @@ Un error general que indica un problema con una fórmula o con celdas a las que 
 
 Podría haber problemas con los espacios, el texto o las celdas a las que se les hace referencia en una fórmula; es posible que tengas que trabajar más
 
- para hallar el origen del problema.
+ para hallar el origen del problema. 
 
-[872yQ-X9Q069skPl_TNOGA_ea3700e555c945d88b9cf6d31d2653f1_More-about-spreadsheet-errors-and-fixes_SPA (1).docx](https://github.com/sirjn/Google-Data-Analysis/files/12891999/872yQ-X9Q069skPl_TNOGA_ea3700e555c945d88b9cf6d31d2653f1_More-about-spreadsheet-errors-and-fixes_SPA.1.docx)
+[Documento resumen de errores](https://github.com/sirjn/Google-Data-Analysis/files/12891999/872yQ-X9Q069skPl_TNOGA_ea3700e555c945d88b9cf6d31d2653f1_More-about-spreadsheet-errors-and-fixes_SPA.1.docx)
 
 Si estás trabajando con Microsoft Excel, la página interactiva [Cómo corregir un error de #VALUE!](https://support.microsoft.com/en-us/office/how-to-correct-a-value-error-15e1b616-fbf2-4147-9c0b-0a11a20e409e) puede ayudarte a reducir la causa del error. En una lista desplegable, puedes elegir una función específica para mostrar un enlace a consejos a fin de corregir el error cuando se usa esa función.
 
