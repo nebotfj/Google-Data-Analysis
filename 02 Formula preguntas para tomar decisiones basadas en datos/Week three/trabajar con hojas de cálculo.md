@@ -89,3 +89,10 @@ Para obtener más información y leer sobre más ejemplos de errores y solucione
 [Fórmulas y funciones de Microsoft](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9?ui=en-US&rs=en-US&ad=US#id0eaabaaa=errors): En este recurso, se describe cómo evitar fórmulas rotas y cómo corregir errores en Microsoft Excel. Esta es una referencia útil de conservar en caso de que te encuentres con un error específico y necesites hallar soluciones rápidamente mientras trabajas en Excel. 
 
 [Cuando tu fórmula no funciona:](https://www.benlcollins.com/spreadsheets/formula-parse-error/): [errores de análisis de fórmula en Google Sheets](https://www.benlcollins.com/spreadsheets/formula-parse-error/): Este recurso es una guía para encontrar y corregir algunos errores comunes en Google Sheets. Si estás trabajando con Google Sheets, puedes usar esto como referencia rápida para resolver problemas que puedes encontrar cuando trabajes por tu cuenta.
+
+## Accesos directos del teclado:
+[1yuA0UjeSc2rgNFI3vnN3A_c3073fa61c7247a8bc26245d400ae0f1_Quick-reference--Functions-in-spreadsheets1_SPA.docx](https://github.com/sirjn/Google-Data-Analysis/files/12892502/1yuA0UjeSc2rgNFI3vnN3A_c3073fa61c7247a8bc26245d400ae0f1_Quick-reference--Functions-in-spreadsheets1_SPA.docx)
+
+
+[BYn_Vx19SA6J_1cdfTgOnQ_b8e76d09efc544a29a29c7dbfa865cf1_Quick-reference--Functions-in-spreadsheets2_SPA.docx](https://github.com/sirjn/Google-Data-Analysis/files/12892500/BYn_Vx19SA6J_1cdfTgOnQ_b8e76d09efc544a29a29c7dbfa865cf1_Quick-reference--Functions-in-spreadsheets2_SPA.docx)
+
