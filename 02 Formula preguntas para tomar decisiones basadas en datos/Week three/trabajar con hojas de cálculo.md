@@ -96,3 +96,6 @@ Para obtener más información y leer sobre más ejemplos de errores y solucione
 
 [BYn_Vx19SA6J_1cdfTgOnQ_b8e76d09efc544a29a29c7dbfa865cf1_Quick-reference--Functions-in-spreadsheets2_SPA.docx](https://github.com/sirjn/Google-Data-Analysis/files/12892500/BYn_Vx19SA6J_1cdfTgOnQ_b8e76d09efc544a29a29c7dbfa865cf1_Quick-reference--Functions-in-spreadsheets2_SPA.docx)
 
+
+![image](https://github.com/sirjn/Google-Data-Analysis/assets/72023291/ff4a1f36-e6e5-4ecd-ae78-56c10f4616ab)
+
