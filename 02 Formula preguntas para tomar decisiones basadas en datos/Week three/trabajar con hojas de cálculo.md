@@ -99,3 +99,5 @@ Para obtener más información y leer sobre más ejemplos de errores y solucione
 
 ![image](https://github.com/sirjn/Google-Data-Analysis/assets/72023291/ff4a1f36-e6e5-4ecd-ae78-56c10f4616ab)
 
+RESUMEN DEL BLOQUE: 
+[Glosario: Términos y definiciones](https://github.com/sirjn/Google-Data-Analysis/files/12893007/6jxTkHYXQeW8U5B2F7HlPQ_c1c68d785b604f37834c1b2ecc5a57f1_DAC2M3L7R1ATTACHMENT_SPA.docx)
